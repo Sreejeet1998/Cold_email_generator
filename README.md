@@ -1,4 +1,4 @@
-Cold Email Generator
+**Cold Email Generator**
 
 Welcome to the Cold Email Generator project! This Python-based application helps automate the process of creating personalized cold emails for outreach purposes, saving you time and effort while ensuring professional communication.
 Features
@@ -10,7 +10,7 @@ Features
     CSV Import: Easily import contacts and their details from CSV files.
     Modular Design: Easy to expand and modify for more features.
 
-Requirements
+**Requirements**
 
     Python 3.8+
     Required libraries are listed in requirements.txt. Install them with:
@@ -19,7 +19,7 @@ Requirements
 
     pip install -r requirements.txt
 
-Installation
+**Installation**
 
     Clone the repository:
 
@@ -55,7 +55,7 @@ Usage
 
     Preview and review the generated emails, then export them for sending.
 
-Customization
+**Customization**
 
 You can modify the email templates or add new fields for more personalized messages. The application is modular, making it easy to extend functionality.
 Contributing
