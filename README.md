@@ -1,7 +1,8 @@
 **Cold Email Generator**
 
 Welcome to the Cold Email Generator project! This Python-based application helps automate the process of creating personalized cold emails for outreach purposes, saving you time and effort while ensuring professional communication.
-Features
+
+# Features
 
     Personalization: Automatically inserts custom fields such as recipient name, company, and position for a tailored message.
     Template Management: Create, edit, and manage multiple email templates.
